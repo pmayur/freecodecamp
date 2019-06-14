@@ -1,0 +1,26 @@
+.heading ,footer{
+    background-color:#379683;
+		padding: 1em;
+		width: 100%;
+}
+
+html{
+    text-align: center;
+    background-color: #8EE4AF;
+}
+#quote {
+		font-family: cursive;
+}
+
+h1{
+    font: sans-serif;
+}
+#img-div {
+    width: 400px;   
+}
+#tribute-info {
+    text-align: justify;
+}
+p {
+    text-align: justify;
+}
