@@ -28,7 +28,7 @@ function conv(elem){
         case `\'`: {
             return "&apos;";
         }
-        default :{
+        default : {
             return elem;
         }
     }
